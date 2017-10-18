@@ -1,1 +1,2 @@
 ./files/config.txt merge=ours
+./file.txt merge=ours
